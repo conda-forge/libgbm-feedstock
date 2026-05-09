@@ -1,5 +1,5 @@
 context:
-  version: "1.0.6"
+  version: "1.0.7"
 
 package:
   name: libgbm
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/glfs-book/libgbm/archive/refs/tags/${{ version }}.tar.gz
-  sha256: dbfc383f6f6f294f6d9723c7e85096c4d98c46e0bed34c9254be690b8f4f0fd6
+  sha256: bfc6c2aa1ceffb739ee9fa850a7c37bbf8a28e4ffb131a3860f34617b99ceedd
 
 build:
   number: 0
